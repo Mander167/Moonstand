@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7e63074719706b18ecc240069c7b8336.lua"))()
+key = "trial"
+loadstring(game:HttpGet("https://api.polsec.sh/loader/dcd51d11a8dbf94d/012f539246f981ba"))()
